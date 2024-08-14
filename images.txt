@@ -1,2 +1,3 @@
-nginx
-mysql
+gitlab/gitlab-ce
+redis
+sonatype/nexus3
